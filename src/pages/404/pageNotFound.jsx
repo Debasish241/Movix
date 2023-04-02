@@ -1,6 +1,6 @@
 import React from 'react'
 import "./style.scss"
-const pageNotFound = () => {
+const PageNotFound = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const pageNotFound = () => {
   )
 }
 import "./style.scss"
-export default pageNotFound
+export default PageNotFound
